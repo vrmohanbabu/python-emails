@@ -9,7 +9,11 @@ Send an alert email if Server's usage is continuously higher than a certain amou
 * Environment used is centos7.
 * Python-3.7.4
 
-### Install Python:
+### Script to install Python for centos 7:
+
+* `sh python37-install.sh`
+
+### Install Python for others:
 
 * Python3.7 - [https://www.python.org/downloads/release/python-374/](https://www.python.org/downloads/release/python-374/)
 
